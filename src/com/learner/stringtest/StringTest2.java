@@ -11,6 +11,8 @@ public class StringTest2 {
 
         //Adding Comment
 
+        //Adding comment
+
     }
 
 }
