@@ -6,6 +6,7 @@ public class StringTest2 {
 
         String str = "Hi";
         System.out.println("Some Modifications");
+        System.out.println("Adding more changes");
         System.out.println(str);
 
     }
