@@ -10,4 +10,5 @@ public class StringTest2 {
         System.out.println(str);
 
     }
+
 }
