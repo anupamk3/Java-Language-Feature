@@ -29,7 +29,7 @@ public class StringTest1 {
         
     }
 
-    private static boolean getValue(){
+    public static boolean getValue(){
         return true;
     }
 
