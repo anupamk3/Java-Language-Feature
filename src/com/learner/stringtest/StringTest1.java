@@ -29,4 +29,8 @@ public class StringTest1 {
         
     }
 
+    private static boolean getValue(){
+        return true;
+    }
+
 }
