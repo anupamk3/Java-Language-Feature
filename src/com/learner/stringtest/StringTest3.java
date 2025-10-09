@@ -10,4 +10,9 @@ public class StringTest3 {
 
         //Adding Comment 1
     }
+
+    private static void query(){
+        System.out.println("Query method");
+        System.out.println(StringTest1.getValue());
+    }
 }
