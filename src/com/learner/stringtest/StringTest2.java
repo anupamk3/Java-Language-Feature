@@ -19,4 +19,8 @@ public class StringTest2 {
 
     }
 
+    private static boolean getValue(){
+        return StringTest1.getValue();
+    }
+
 }
